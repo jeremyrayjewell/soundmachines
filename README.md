@@ -29,9 +29,15 @@ Each subfolder contains its own sketch (`.ino`), wiring diagram or breadboard la
 
 Clone the repo:
 ```bash
-   git clone https://github.com/<your-username>/soundmachines.git
+   git clone https://github.com/jeremyrayjewell/soundmachines.git
 ```
+---
 
+## 🎵 Why “Soundmachines”?  
+This repo is meant to be a **playground** — a place to build, tweak, and experiment with small musical gadgets. The name nods to classic noise-makers and grooveboxes that turn simple electronics into playable instruments.  
+
+## 📜 License  
+MIT License — free to fork, remix, and build your own machines!
 ---
 
 ## Author
