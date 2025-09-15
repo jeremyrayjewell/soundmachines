@@ -9,6 +9,8 @@ Audio is generated via PWM on D9 and amplified with an LM386N + speaker.
 
 ![Drum Synth Schematic](schematic.png)
 
+![Drum Synth Photo](photo.jpeg)
+
 ---
 
 ## 🛠️ Hardware Setup
