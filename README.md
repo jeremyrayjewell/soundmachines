@@ -1,8 +1,8 @@
 # 🎛️ soundmachines
 
-A collection of my Arduino-based **music and multimedia projects** — from drum machines to synth experiments, all built to be hackable and playable.  
+A collection of my electronics-based **music and multimedia projects** — from drum machines to synth experiments, all built to be hackable and playable.  
 
-Each subfolder contains its own sketch (`.ino`), wiring diagram or breadboard layout, and build notes so you can reproduce or remix the project.
+Each subfolder contains its own code, wiring diagram or breadboard layout, and build notes so you can reproduce or remix the project.
 
 ---
 
@@ -10,18 +10,10 @@ Each subfolder contains its own sketch (`.ino`), wiring diagram or breadboard la
 
 | Project | Description |
 |--------|-------------|
-| **drum-synth/** | A four-button mini drum machine (kick, snare, hat, clap) with an LM386 amplifier. Includes breadboard layout and sketch. |
+| **drum-synth/** | An Arduino-based, four-button mini drum machine (kick, snare, hat, clap) with an LM386 amplifier. Includes breadboard layout and sketch. |
+| **atari-punk-console/** | Variations on the 555-based classic. |
 | *(coming soon)* | More projects — sequencers, synth voices, audiovisual experiments... |
 
----
-
-## 🛠️ Hardware Used
-
-- Arduino Uno 
-- Breadboard + jumper wires
-- Pushbuttons & potentiometers
-- Passive components (resistors, caps)
-- LM386-based amplifier + small speaker
 
 ---
 
